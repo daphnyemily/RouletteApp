@@ -14,6 +14,5 @@ results
 npm-debug.log
 node_modules
 
-database.js
 module.exports 
 .DS_Store
